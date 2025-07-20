@@ -1,4 +1,4 @@
-python-3.10
+telegram-bot==13.15
 twilio
 requests
 schedule
