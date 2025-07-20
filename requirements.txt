@@ -1,0 +1,5 @@
+python==13.15
+twilio
+requests
+schedule
+python-dotenv
