@@ -1,4 +1,4 @@
-python==13.15
+python-3.10.12
 twilio
 requests
 schedule
